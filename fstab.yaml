@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/starter-content-commerce
+  /: https://apcdeloitte-my.sharepoint.com/:f:/r/personal/montusingh_deloitte_com/Documents/aem-comm?csf=1&web=1&e=RMWV3T
 
 folders:
   /products/: /products/default
